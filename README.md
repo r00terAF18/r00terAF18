@@ -1,69 +1,145 @@
-<h2 align="left">Hi 👋! My name is Amir</h2>
+<div align="center">
 
-###
+# Hi, I'm Amir 👋
+
+### Software Developer · .NET / C# · Python · Linux
+
+I build practical software, developer tools, cross-platform applications, and the occasional thing that exists simply because I wanted it to exist.
+
+[![GitHub](https://img.shields.io/badge/GitHub-r00terAF18-181717?style=flat-square\&logo=github)](https://github.com/r00terAF18)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=flat-square\&logo=gmail\&logoColor=white)](mailto:ahroohi1379@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-r00terAF22-26A5E4?style=flat-square\&logo=telegram\&logoColor=white)](https://t.me/r00terAF22)
+
+</div>
+
+---
+
+## About me
+
+I'm a software developer with a strong focus on **C# and the .NET ecosystem**, alongside **Python**, Linux, and systems-oriented development.
+
+A lot of what I enjoy sits somewhere between application development and engineering: building desktop software, web applications, developer utilities, data-heavy tools, native interop, automation, and software that has to solve an actual real-world problem rather than just demonstrate a framework.
+
+I'm particularly interested in:
+
+* 🖥️ Cross-platform desktop applications
+* 🌐 ASP.NET Core, Blazor and modern web applications
+* ⚙️ Developer tools and automation
+* 🔌 Native interoperability and systems programming
+* 🐧 Linux and desktop customization
+* 📊 Engineering and data-analysis software
+* 🔧 Electronics, embedded systems and hardware
+* 📴 Offline-first software
+
+I generally prefer software that is **fast, focused, maintainable, and useful** over unnecessarily complicated systems.
+
+---
+
+## What I'm working with
+
+### Main stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,django,postgres,sqlite,linux,git,github&theme=dark" />
+</p>
+
+**C# / .NET** <br>
+.NET 10 · ASP.NET Core · Blazor · Avalonia · WinForms · Native Interop
+
+**Python** <br>
+Django · Automation · Data Processing · Tooling
+
+**Data** <br>
+PostgreSQL · SQL Server · SQLite
+
+**Also interested in** <br>
+C / Embedded C · Arduino · TypeScript · Qt · Linux tooling
+
+---
+
+## Featured project
+
+### 🎮 [RayGuiSharp](https://github.com/r00terAF18/raygui-cs)
+
+Modern C# bindings for **raygui 5.0**, built around the current .NET ecosystem.
+
+Some of the fun parts:
+
+* .NET 10 / C# 14
+* Complete bindings for the public raygui 5.0 API
+* Source-generated `LibraryImport` native interop
+* UTF-8 and native structure handling
+* Windows, Linux and macOS native runtimes
+* CMake-based native builds
+* NuGet packaging
+* GitHub Actions CI across multiple platforms
+* Automated header/API coverage verification
+
+This project is probably the best representation of the kind of technical work I enjoy: making native and managed ecosystems work together cleanly.
+
+---
+
+## Other things I've built & experimented with
+
+### 🖼️ [wally](https://github.com/r00terAF18/wally)
+
+A C#/.NET wallpaper downloader originally built because, as a Linux user, I wanted an easier way to collect wallpapers from multiple sources.
+
+Supports multiple wallpaper sites, resolution selection and automatically setting downloaded wallpapers.
+
+### 🐧 Linux & dotfiles
+
+I spend more time than I'd like to admit customizing Linux desktops, experimenting with Hyprland, desktop workflows, shell environments and generally making my computer look unnecessarily good.
+
+→ [dotfiles](https://github.com/r00terAF18/dotfiles)
+→ [material-hyprland](https://github.com/r00terAF18/material-hyprland)
+
+### 🛠️ Utilities & experiments
+
+You'll also find smaller experiments around downloading, binary/data manipulation, desktop utilities and whatever problem happened to annoy me enough to write software for it.
+
+---
+
+## Beyond GitHub
+
+A significant part of my development work involves larger application architectures and domain-heavy software, including:
+
+* industrial and engineering applications
+* drilling and operational data analysis
+* inventory and internal management systems
+* cross-platform desktop software
+* ASP.NET Core APIs
+* Blazor frontends
+* offline-capable applications
+
+Not everything I work on can live in a public repository, but the same philosophy carries through: **understand the problem first, then build the simplest system that solves it well.**
+
+---
+
+## Languages
+
+🇮🇷 **Persian** — Native
+🇬🇧 **English** — Fluent
+🇩🇪 **German** — Fluent
+
+---
+
+## GitHub
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="30" alt="dotnetcore logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="30" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" height="30" alt="embeddedc logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="microsoftsqlserver logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="30" alt="jetbrains logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="30" alt="qt logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="30" alt="typescript logo"  />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=r00terAF18&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r00terAF18&layout=compact&hide_border=true&theme=transparent&langs_count=8" />
+
 </div>
 
-###
+---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=r00terAF18&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=synthwave&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=r00terAF18&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=synthwave&hide_border=false" height="150" alt="languages graph"  />
+
+### Build things. Break things. Understand why they broke. Build them better.
+
+<sub>C# enthusiast · Linux tinkerer · occasional hardware debugger · professional yak shaver</sub>
+
 </div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/r00terAF18/count.svg?"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="ahroohi1379@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <a href="ahroohi1379@hotmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
-  </a>
-  <a href="https://t.me/r00terAF22" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
-  </a>
-</div>
-
-###
-
-<h3 align="left">I like music and games.</h3>
-
-###
